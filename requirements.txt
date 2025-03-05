@@ -7,4 +7,6 @@ pandas
 matplotlib
 Pillow
 dnnlib
+facenet
 deepface
+tf-keras
